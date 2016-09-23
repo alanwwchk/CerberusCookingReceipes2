@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage BackgroundColor = "Aqua" xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="CerberusCookingReceipes2.Greece">
+	<StackLayout>
+		<Label/>
+		<Label/>
+		<Image Source = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/255px-Flag_of_Greece.svg.png"/>
+		<Button Text = "smtg" TextColor = "White" BackgroundColor = "Aqua" Clicked = "GC1"/>
+		<Button Text = "smtg" TextColor = "White" BackgroundColor = "Aqua" Clicked = "GC2"/>
+		<Button Text = "smtg" TextColor = "White" BackgroundColor = "Aqua" Clicked = "GC3"/>
+		<Button Text = "smtg" TextColor = "White" BackgroundColor = "Aqua" Clicked = "GC4"/>
+		<Button Text = "Return" TextColor = "White" BackgroundColor = "Aqua" Clicked = "GreeceReturnHome"/>
+	</StackLayout>
+</ContentPage>

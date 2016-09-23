@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage BackgroundColor = "Black" xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="CerberusCookingReceipes2.Second">
+	<StackLayout>
+		<Label/>
+		<Label/>
+		<Label Text = "Choose Your Receipes" Font = "18" TextColor = "Gray"/>
+		<Button Text = "Australia" Clicked = "AustraliaClicked"
+			TextColor = "White" BackgroundColor = "Black"/>
+		<Button Text = "China" Clicked = "ChinaClicked"
+			TextColor = "White" BackgroundColor = "Black"/>
+		<Button Text = "Greece" Clicked = "GreeceClicked"
+			TextColor = "White" BackgroundColor = "Black"/>
+		<Button Text = "Italy" Clicked = "ItalyClicked"
+			TextColor = "White" BackgroundColor = "Black"/>
+		<Button Text = "Japan" Clicked = "JapanClicked"
+			TextColor = "White" BackgroundColor = "Black"/>
+		<Button Text = "Korea" Clicked = "KoreaClicked"
+			TextColor = "White" BackgroundColor = "Black"/>
+		<Button Text = "Russia" Clicked = "RussiaClicked"
+			TextColor = "White" BackgroundColor = "Black"/>
+		<Button Text = "Vietnam" Clicked = "VietnamClicked"
+			TextColor = "White" BackgroundColor = "Black"/>
+		<Button Text = "Return" Clicked = "Return_Click"
+			TextColor = "Silver" BackgroundColor = "Black"/>
+	</StackLayout>
+</ContentPage>

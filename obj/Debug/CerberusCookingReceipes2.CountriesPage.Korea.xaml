@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="CerberusCookingReceipes2.Korea">
+	<StackLayout>
+		<Label/>
+		<Label/>
+		<Image Source = "http://tong.visitkorea.or.kr/ena/AK/rc/279614_1_1.gif"/>
+		<Button Text = "smtg" TextColor = "Black" BackgroundColor = "Silver" Clicked = "KR1"/>
+		<Button Text = "smtg" TextColor = "Black" BackgroundColor = "Silver" Clicked = "KR2"/>
+		<Button Text = "smtg" TextColor = "Black" BackgroundColor = "Silver" Clicked = "KR3"/>
+		<Button Text = "smtg" TextColor = "Black" BackgroundColor = "Silver" Clicked = "KR4"/>
+		<Button Text = "Return" TextColor = "Black" BackgroundColor = "Silver" Clicked = "KoreaReturnHome"/>
+	</StackLayout>
+</ContentPage>

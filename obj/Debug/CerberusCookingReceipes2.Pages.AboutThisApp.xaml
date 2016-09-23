@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage BackgroundColor = "Black" xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="CerberusCookingReceipes2.AboutThisApp">
+	<StackLayout>
+		<Label/>
+		<Label/>
+		<Label Text = "About This App" TextColor = "Gray" Font = "18"/>
+		<Label Text = "Description: " TextColor = "White"/>
+		<Editor Text = "View cooking receipes from originated from 8 different countries. Some receipes are popular among that culture, while others maybe interesting! "
+				BackgroundColor = "Black" TextColor = "White" FontSize = "12"/>
+		<Label Text = "Version: v3.5 " TextColor = "White"/>
+		<Label Text = "What's new: " TextColor = "White"/>
+		<Editor Text = "Added the Contact method, also the background colour of Pages changed to black while text color change to white"
+				BackgroundColor = "Black" TextColor = "White" FontSize = "12"/>
+		<Button BackgroundColor = "Black" Text = "Return" Clicked = "ReturnHome" TextColor = "Silver"/>
+	</StackLayout>
+</ContentPage>

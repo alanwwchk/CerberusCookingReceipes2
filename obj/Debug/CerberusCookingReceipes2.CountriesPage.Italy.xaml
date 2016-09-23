@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage BackgroundColor = "Lime" xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="CerberusCookingReceipes2.Italy">
+	<StackLayout>
+		<Label/>
+		<Label/>
+		<Image Source = "http://vignette4.wikia.nocookie.net/lyricwiki/images/1/12/Italy_flag.gif/revision/latest?cb=20110208130223"/>
+		<Button Text = "smtg" TextColor = "White" BackgroundColor = "Lime" Clicked = "IT1"/>
+		<Button Text = "smtg" TextColor = "White" BackgroundColor = "Lime" Clicked = "IT2"/>
+		<Button Text = "smtg" TextColor = "White" BackgroundColor = "Lime" Clicked = "IT3"/>
+		<Button Text = "smtg" TextColor = "White" BackgroundColor = "Lime" Clicked = "IT4"/>
+		<Button Text = "Return" TextColor = "White" BackgroundColor = "Lime" Clicked = "ItalyReturnHome"/>
+	</StackLayout>
+</ContentPage>

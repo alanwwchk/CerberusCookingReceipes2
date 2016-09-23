@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage BackgroundColor = "Teal" xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="CerberusCookingReceipes2.Russia">
+	<StackLayout>
+		<Label/>
+		<Label/>
+		<Image Source = "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/255px-Flag_of_Russia.svg.png"/>
+		<Button Text = "smtg" TextColor = "Black" BackgroundColor = "Teal" Clicked = "RU1"/>
+		<Button Text = "smtg" TextColor = "Black" BackgroundColor = "Teal" Clicked = "RU2"/>
+		<Button Text = "smtg" TextColor = "Black" BackgroundColor = "Teal" Clicked = "RU3"/>
+		<Button Text = "smtg" TextColor = "Black" BackgroundColor = "Teal" Clicked = "RU4"/>
+		<Button Text = "Return" TextColor = "Black" BackgroundColor = "Teal" Clicked = "RussiaReturnHome"/>
+	</StackLayout>
+</ContentPage>

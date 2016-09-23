@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage BackgroundColor = "Black" xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:CerberusCookingReceipes2" x:Class="CerberusCookingReceipes2.CerberusCookingReceipes2Page">
+	
+		
+		<StackLayout>
+		<Image Source = "http://wallpaper.pickywallpapers.com/sonyericsson-xperia-neo/mass-effect-cerberus-logo.jpg"/>
+		<Label Text="Cerberus Cooking Receipes" 
+				Font = "16"/>
+		<Button Text = "Receipes Selection" 
+			Clicked = "TooReceipesSelection"
+			TextColor = "White" BackgroundColor = "Black"/>
+		<Button Text = "About This App" 
+			Clicked = "TooAboutThisApp"
+			TextColor = "White" BackgroundColor = "Black"/>
+		<Button Text = "Contact Us" 
+			Clicked = "TooContactUs"
+			TextColor = "White" BackgroundColor = "Black"/>
+	</StackLayout>
+	
+	
+	
+</ContentPage>

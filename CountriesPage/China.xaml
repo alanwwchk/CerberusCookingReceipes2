@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage BackgroundColor = "Red" xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="CerberusCookingReceipes2.China">
+	<StackLayout>
+		<Label/>
+		<Label/>
+		<Image Source = "http://www.enchantedlearning.com/asia/china/flag.GIF"/>
+		<Button Text = "smtg" TextColor = "White" BackgroundColor = "Red" Clicked = "CN1"/>
+		<Button Text = "smtg" TextColor = "White" BackgroundColor = "Red" Clicked = "CN2"/>
+		<Button Text = "smtg" TextColor = "White" BackgroundColor = "Red" Clicked = "CN3"/>
+		<Button Text = "smtg" TextColor = "White" BackgroundColor = "Red" Clicked = "CN4"/>
+		<Button Text = "Return" TextColor = "White" BackgroundColor = "Red" Clicked = "ChinaReturnHome"/>
+	</StackLayout>
+</ContentPage>

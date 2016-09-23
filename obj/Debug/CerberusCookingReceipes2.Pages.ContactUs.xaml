@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage BackgroundColor = "Black" xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="CerberusCookingReceipes2.ContactUs">
+	<StackLayout>
+		<Label/>
+		<Label/>
+		<Label Text = "Contact us" TextColor = "Gray" Font = "18"/>
+		<!--user enter name-->
+		<Label Text = "Name: Alan Wong"/>
+		<Label Text = "E-Mail: waiw@deakin.edu.au" TextColor = "White"/>
+		<Label Text = "Phone(mobile): 0481174485" TextColor = "White"/>
+		<Label Text = "Address: 8 Uganda Street, Burwood, VIC 3125" TextColor = "White"/>
+		<Label/>
+		<Label/>
+		<Label Text = "Name: Felix Chow"/>
+		<Label Text = "E-Mail: ccch@deakin.edu.au" TextColor = "White"/>
+		<Label Text = "Phone(mobile): 0405407126" TextColor = "White"/>
+		<Label Text = "Address: 8 Uganda Street, Burwood, VIC 3125" TextColor = "White"/>
+		<Button Text = "Return" BackgroundColor = "Black" Clicked = "TooHome" TextColor = "Silver"/>
+	</StackLayout>
+</ContentPage>
